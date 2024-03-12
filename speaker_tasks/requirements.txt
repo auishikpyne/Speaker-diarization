@@ -1,0 +1,10 @@
+fastapi==0.99.1
+Flask==2.3.2
+nemo_toolkit==1.17.0rc0
+omegaconf==2.2.3
+pydub==0.25.1
+pytorch_lightning==1.9.4
+sox==1.4.1
+torch==2.0.0
+tqdm==4.65.0
+uvicorn==0.22.0
